@@ -33,6 +33,8 @@ yarn serve
 # open http://localhost:1313/ in the browser
 ```
 
+When you edit pages or authoring new ones, it might be more convenient to use the multi-page version of the spec, so that you can concentrate on the section you are currently working on. Simply got to http://localhost:1313/multi-page-mode, you can now browse to any subsection.
+
 ### Solving Common problems
 
 **Problem** - Site fails to build with an error that states it faled to download modules on macos
