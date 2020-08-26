@@ -7,7 +7,7 @@
     "test": "remark content --quiet",
     "serve": "hugo server --bind=0.0.0.0 --disableFastRender",
     "build": "hugo --gc --minify",
-    "clean-modules": "hugo mod clean && hugo mod tidy"
+    "clean-modules": "hugo mod clean --all && hugo mod tidy"
   },
   "author": "",
   "license": "MIT",
